@@ -27,10 +27,16 @@ html {
     font-size: 30px;
 }
 .li-navbar:hover {
-    background-color: tomato;
+    background-color: black;
     transition: .5s ease-in-out;
     transition-delay: .3s;
     border-radius: 8px;
+}
+
+#biodata {
+    background: red;
+    width: 200px;
+    height: 200 px;
 }
 
 .a-navbar {
